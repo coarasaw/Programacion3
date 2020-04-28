@@ -1,0 +1,12 @@
+{
+    "name": "coarasa/tp2",
+    "authors": [
+        {
+            "name": "wally",
+            "email": "coarasaw@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
